@@ -62,7 +62,7 @@ a{
 }
 
 .parallax{
-    background-image: url(/images/SLIDER-Saigon-Mini-Structuré-Goyard.jpg);
+    background-image: url(images/SLIDER-Saigon-Mini-Structuré-Goyard.jpg);
     height:65vh;
     background-attachment: fixed;
     background-position:top;
@@ -120,7 +120,7 @@ h3{
 }
 
 #leather{
-    background-image: url(/images/Plumets-Bordeaux-et-Bleu-Marine4.jpg);
+    background-image: url(images/Plumets-Bordeaux-et-Bleu-Marine4.jpg);
     
 }
 
@@ -154,7 +154,7 @@ span{
 }
 
 #gazimg{
-    background-image:url(/images/gazette-goyard.jpg);
+    background-image:url(images/gazette-goyard.jpg);
     width:100%;
     height:200px;
     background-repeat: no-repeat;
