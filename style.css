@@ -1,0 +1,228 @@
+*{
+    margin:0;
+
+}
+body, html{
+    height:100%;
+    
+}
+
+header {
+    width:100%;
+    background-color: black;
+    display:relative;
+    top:0;
+    padding:15px;
+
+}
+
+
+h1{
+    text-align:center;
+    font-size:2rem;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    color:rgb(192, 177, 94)
+}
+
+#paris{
+    text-align: center;
+    letter-spacing:10px;
+    text-transform: uppercase;
+    color:rgb(214, 199, 111);
+    font-size:.8rem;
+    position:relative;
+    font: weight -200px;
+    font-style: italic;
+
+    
+}
+
+hr {
+    background-color:rgb(214, 199, 111);
+    margin-top:1rem;
+    margin-bottom:2rem;
+    color:rgb(214, 199, 111);
+    border-color:rgb(214, 199, 111);
+
+ 
+}
+
+a{
+    color:white;
+    text-align:center;
+    margin-left:1rem;
+    font-size:.8rem;
+
+
+}
+#link{
+    text-align:center;
+
+}
+
+.parallax{
+    background-image: url(/images/SLIDER-Saigon-Mini-Structuré-Goyard.jpg);
+    height:65vh;
+    background-attachment: fixed;
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:100vw;
+    position:relative;
+}
+
+h2{
+    position:absolute;
+    justify-content: center;
+    font-weight:bold;
+    top:18%;
+    left:10%;
+    font-size:3.5rem;
+    color:rgb(63, 66, 70);
+}
+
+.container{
+    text-align:center;
+    width:100%;
+    top:3rem;
+    position:relative;
+}
+
+h3{
+    font-size:1.8rem;
+    position:absolute;
+    text-align:center;
+    width:100%;
+    top:8rem;
+}
+
+.bag{
+    background-image: url(images/Saïgon-Mini-Structurés-Noir-et-Blanc.jpg);
+    position:relative;
+    top:10rem;
+    width:300px;
+    height:450px;
+    z-index: 999;
+    display:inline-block;
+    background-size:contain;
+    background-attachment:inherit;
+    margin:5px;
+    color:lightgray;
+    background-repeat: no-repeat;
+   
+}
+
+.bag:hover{
+    width:350px;
+    height:500px;
+    filter:grayscale(80%);
+}
+
+#leather{
+    background-image: url(/images/Plumets-Bordeaux-et-Bleu-Marine4.jpg);
+    
+}
+
+span{
+    text-align:center;
+    top:25%;
+    position:absolute;
+    text-transform: uppercase;
+    background-color:rgb(192, 177, 94);
+    font-size:1.5rem;
+    color:white;
+    padding: 1.2rem 2rem;
+    font-weight:bold;
+    right:25%;
+}
+
+#gaz{
+    top:10rem;
+}
+#p{
+    top:13rem;
+    position:absolute;
+    text-align:center;
+    display:inline-block;
+    left:38%;
+    color:gray;
+} 
+
+#div{
+    position:relative;
+}
+
+#gazimg{
+    background-image:url(/images/gazette-goyard.jpg);
+    width:100%;
+    height:200px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:inherit;
+    position:relative;
+    top:20rem;
+}
+
+footer{
+    width:100%;
+    height:30rem;
+    background-color:rgb(39, 38, 38);
+    bottom:0%;
+    position:relative;
+    top:70%;
+}
+
+.footer{
+    align-items:center;
+    display:inline-block;
+    margin: 2rem 5rem;
+    
+}
+    
+#containdiv{
+    background-color:black;
+    width:100vw;
+    height:200px;
+    top:5rem;
+    position:absolute;
+    text-align:center;
+}
+
+h4{
+    color:white;
+    text-transform: uppercase;
+    font-size:1.5rem;
+    margin-bottom:3rem;
+}
+
+div ul li{
+    color:rgb(192, 177, 94);
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+div ul{
+    position:absolute;
+}
+
+i {
+    position:relative;
+    width:25px;
+    height:25px;
+    bottom:0;
+    text-align:center;
+    left:25%;
+    color:rgb(192, 177, 94);
+    display:inline;
+    justify-content: space-around;
+    margin-left:2rem;
+    margin-top:2rem;
+
+}
+
+#img{
+    position:absolute;
+    bottom:0;
+    left:35%;
+}
